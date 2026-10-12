@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A's Portfolio</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        h1, h2 { color: #333; }
+        .section { margin-bottom: 40px; }
+        ul { line-height: 1.8; }
+    </style>
+</head>
+
+<body>
+
+    <h1>Sol Jimenez Portfolio</h1>
+
+    <div class="section">
+        <h2>Personal Statement</h2>
+        <p>I am Sol Jimenez, a student at Rutgers University interested in Supply Chain and learning how industries strategize to make meaningful decisions that drive competitive advantage.</p>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Team collaboration</li>
+            <li>Process mapping</li>
+            <li>Statistical forecasting methods</li>
+        </ul>
+    </div>
+
+</body>
+</html>
